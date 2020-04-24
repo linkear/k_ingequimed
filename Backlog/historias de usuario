@@ -1,1 +1,20 @@
 
+Usuario (paciente)
+Como paciente me gustaria registrame de forma segura al sistema para tener confidencialidad de mis datos
+Como paciente me gustaria tener un campo para ingresar mi cédula de identidad para que se me valide en el sistema
+Como paciente quiero que mi información sea protegida para que mi información no se robada
+Como paciente quiero ingresar con usuario y contraseña al sistema para evitar que alguien mas pueda acceder
+Como paciente quiero que haya la opcion de recordar la contraseña para asi recuperar la cuenta (en caso de olvidarla)
+Como paciente quiero ver mi perfil para poder modificar uando lo necesite
+Como paciente me gustaria que con el logo pueda ir a la pagina principal para poder ahorrar tiempo
+como paciente quiero tener un lugar para guardar mi historial para futura referencias
+Como paciente quiero hacer el seguimiento del embarazo en tiempo real para tener historial mas claro
+como paciente quiero que el sistema sea sencillo y facil de usar para poder manejarlo rapidamente
+Usuario (medico)
+Como medico quiero tener opciones comunes de busqueda para acceder mas rapido a lo que necesito
+Como medico quiero la opcion de que la enfermera o secretaria llene la informacion personal para ahorrar tiempo de la consulta
+Como medico quiero acceder al sistema solo con mi numero de cedula y contraseña para evitar robo de informacion
+como medico quiero que me llegue un mensaje con un código de confirmacion para comprobar el control de acceso de doctores
+Como medico quiero que mis pacientes tengan un codigo unico para evitar confusiones
+como medico quiero poder visualizar estadisticas del paciente de forma corta y ordenada para poder ver sl proceso
+
