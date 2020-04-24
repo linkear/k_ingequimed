@@ -2,8 +2,8 @@
 Linkear the entire health community through digital services and products
 
 **Visión**
-Linkear a la comunidad de la salud del Ecuador entregando servicios y productos
 
+Linkear a la comunidad de la salud del Ecuador entregando servicios y productos
 En los siguientes años nos queremos consolidar como la primera organización con información en tiempo real y totalmente verídica de todos los aspectos correspondientes al estado de salud de los ecuatorianos.
 
 **Misión**
